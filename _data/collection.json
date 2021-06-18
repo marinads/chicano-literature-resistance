@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "Chicano Literature: The Theme of Cultural Resistance" ] },
+    "summary": { "en": [ "Transcript of the radio program, The Mexican American Experience, which is broadcast on the Longhorn Radio Network.  The host is Linda Fragoso.  The guest is Juan Rodriguez, lecturer of English at the University of Texas at Austin.  Chicano poet Raul Salinas also gives a reading of one of his poems. This radio program was recorded on October 15, 1980." ] },
+    "items": [
+    ]
+}
