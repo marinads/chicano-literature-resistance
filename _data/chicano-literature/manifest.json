@@ -5,7 +5,7 @@
     "label": { "en": [ "Chicano Literature" ] },
     "homepage": [
       {
-        "id": "http://www.laits.utexas.edu/onda_latina/program?sernum=000536358&amp;term=",
+        "id": "http://www.laits.utexas.edu/onda_latina/program?sernum=000536358&amp;amp;term=",
         "type": "Text",
         "label": { "en": [ "Chicano Literature" ] },
         "format": "text/html"
@@ -23,6 +23,50 @@
         "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
         "type": "Canvas",
         "duration": 1472.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/musical-interlude.json",
+            "label": "Musical Interlude"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez.json",
+            "label": "Juan Rodriguez"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso.json",
+            "label": "Linda Fragoso"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/show-closing.json",
+            "label": "Show Closing"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/show-opening.json",
+            "label": "Show Opening"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/raul-salinas.json",
+            "label": "Raul Salinas"
+          }
+          ,
+          {
+            "type": "AnnotationPage",
+            "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/musical-closing.json",
+            "label": "Musical Closing"
+          }
+        ],
         "items": [
           {
             "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/paintings",

@@ -1,0 +1,239 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez.json",
+  "type": "AnnotationPage",
+  "label": "Juan Rodriguez",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, as you've stated quite appropriately at the beginning, Chicano literature is tied to the people, the Chicano people and as such, then it takes on these characteristics of of what what might one might call the majority of Chicano. And so that the literature in a way reflects, for example, a working class uh status for most of the Chicano, it generally uh pertains it's images, it's points of references are those points that poor people in this country in general can recognize with the addition of a particular, what I call a specificity of cultural reference that comes from the chicano themselves. These are some of the things that are specific to the literature at any point in its development.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "70,123"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, uh I believe that the sensitive writer and uh fortunately we have many of those are able to capture uh at the same time, not only their individual perspective, but also this group perspective. This uh cultural perspective that we talk about.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "129,148"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, perhaps I could best answer that by very briefly summarizing its history, Chicano literature as all literature springs from from the folk traditions. It begins as an oral tradition. Uh And from that, it passes through in in the late 19th century, and certainly in the early 20th century, it passes into a written tradition, picking up principally a theme that is to characterize it until the modern time. That is the theme of cultural resistance to the anglo presence in the lands that formerly belonged to Mexico. The it has taken several forms in the beginning since it was tied to the oral tradition. This literary expression was principally identified as a sort of musical expression. One can think of the Corridos, the ballads that were sung, but in another form they became, they became the folktales, the folk tales, the legends. Uh, sometimes even the jokes of the, of the masses came to be as as we recognize now the literary expression. These were later incorporated into the written tradition and then modified according to the demands of that tradition.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "159,242"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, of course, most of our ancestors did not have the access to education. Uh, but also because they're just the general development of technology. When we talk about Third world countries and certainly Mexico is included amongst those. Uh, we, we generally talk about the sort of slower advanced technological advance and so therefore we really don't come into a written tradition fully until after the Second World War. So that at that time there is a clear written tradition in our literature. And one can also then identify the continuing oral tradition to our modern time.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "245,292"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well? Uh, as all literatures, Chicano have have practiced all of the genres. A poetry is certainly one of the first to flower in at the beginning, you referred to the birth of chicano literature? Well, Uh, in 1965, what one uh, experiences or at least notice is is not so much the birth of Chicano literature, but what we prefer to call the flowering of Chicano literature. It is not a renaissance, which would imply a death of some sort because Chicano literature as the Chicano people themselves have continued to struggle throughout their history. Well, Poetry in 65 in the flowering of Chicano literature became very, very prominent. It was one of the principal genres to be utilized principally because it could be incorporated rather easily into, say, political demonstrations and political speeches. It could also be included without A great sacrifice of space in newspapers in many magazines that flourished in the early part of the Chicano movement in 65.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "305,375"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It is in the area of drama that the first impact is made. Even though poetry is very popular in 65 it is drama. Uh The Actos by Luis Valdez's El Teatro Campesino in Delano California, that first has the impact upon a wide audience of chicanos in this country. And they first, a lot of people today believe that the first uh ah expression that chicanos had was the Actos uh of luis Valdez, that of course is not correct. Uh It is It is since 1965 that there has been a strong tradition in the novel, which is one of the most, the novel is traditionally the genre of the middle classes. Since we do not have a very strong And certainly not historically present middle class in great numbers the novel, even though we have had novels in the 19th and early 20th century, the novel has not had a strong tradition. It is only now in the 70's And probably into the 80s, that the novel would make it stand as a genre,",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "879,954"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "This is, this is correct, Luis Valdez uh in his genius, was able to tie in the a a literary expression here, the drama, the octo tie it in intimately and very, very, very uh in a very, very wise manner, tie it into the uh political demonstrations that the united farm workers under the leadership of Cesar Chavez uh were executed at the time, the strikes, the boycotts and so on. And they began, as you say, as a very rudimentary type of theater people's theatre. The first play that they presented in 65 was a skit, a very good skit called Las dos caras del Patron or The Two faces of the Patron in which they uh present to the workers themselves the duplicity that's involved in the growers attitude toward them toward them. So he wisely used that it is a people's theatre and even today uh Chicanos at all levels of the social class identify with that sort of very popular theater.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "968,1032"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, uh Americo Paredes in his studies on folklore has identified he has had the same problem. When does Chicano folklore start as opposed to Mexican folklore or Anglo folklore? Not rather American folklore. And he has uh pointed out that the outstanding characteristic that which distinguished Chicano folklore from Mexican folklore and american folklore is are the elements of conflict. That is the resistance folklore as resistance is what distinguishes our folklore from the other two. This is also true in literature. The prominent theme, the theme that will first pop up in the 1850s, that will first emerge in the 1850s in in in the say the the formation of chicano literature will be this cultural resistance, the resistance toward anglo presence. And this will be as I said before, the dominant characteristic even until the present. This is not to say that all Chicano writers write about the cultural conflict, but the majority of them do. And from my own experience it is a type of literature that pleases at least the majority of uh the Chicano audience the most.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1039,1123"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "In the beginning. Uh 1965, in the flowering of the Chicano movement and Chicano literature. There were those poets in particular, Corky Gonzalez uh in Denver, Alurista in San Diego, that we're attempting to ah instruct, so to speak, the chicano movement. The chicano people about their indigenous roots in a reaction to anything being european. They chose to be uh Indian. And so as a result they went back uh Floresta, probably the best example went back into the Mexican Indigenous route and to the Mayas, particularly to the Aztecs and so on, which to me is very important. However, again, it is somewhat missing the immediacy of the greater numbers of the chicano people. One misses the what I mentioned in the beginning, the specificity of reference that too many of us, especially the modern urban as most of us are urban, uh young chicano is both women, men and women. To talk about the Aztecs in the Maya is to really talk about archaeology and not talk about uh some relevant uh element in our society. Uh when we when we, for example, when we experience the the indian dances, Yeah, I believe that the majority of people and this is only my impression. The majority of people really are watching some archaeological uh happening when they watch. Uh it's very similar to when they watch folklorico, the various folkloric dances. I believe that most, most say chicanos that are not trained in the tradition of dancer to appreciate that aspect of our culture, simply are watching what most tourists would see. That is some Mexicans dance in some typical dances. That is, their view is very, very superficial. Mhm.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1139,1278"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, for a long time we said that the readers of Chicano literature were the academics for the academics. And I always suspected that that was not true. Uh As you know, recently we have had the distribution project in our hands. We've had it for over a year. And one of the pleasant surprises of that. Yeah. Is that we have discovered that the people do read the people that are non academics are the ones that want to read that do read that search out the literature if it is true and it may be so that the academics that is students, teachers, professors, the people at some institution of higher learning. Yeah. If it is true that these people or doing all the reading, it is simply because of the problem of distribution with Chicano literature and not because the people outside of these institutions do not want or unable to read.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1281,1340"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/juan-rodriguez-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Well, since 1979 the, the people at the University of Michigan, the center there for Social Research organized a meeting of publishers, uh, editors and distributors of Chicano titles. At that. They organized it at UCLA. And after a two day meeting, there were certain things that there were problems that were identified in possible solutions to those problems. Since that meeting, there have been three distributors established throughout the country. Uh, and I believe that those uh those distributors are probably doing more within the last year or so to distribute our literature than any other thing in the past and we should expect great results in terms of getting the Chicano titles to Chicano audience.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1345,1401"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,281 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso.json",
+  "type": "AnnotationPage",
+  "label": "Linda Fragoso",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "These weekly programs focus on chicano history and culture and issues concerning contemporary mexican american society. With this week's program, here's your host Linda Fragoso. Chicano literature is a product of Chicanos. Some trace its historic roots to the blend of indian and Spanish heritage in the 15th century. Others say it goes back to the war between Mexico and the United States in the 1800s and many agreeing the Chicano literature first emerged full scale with the Civil Rights movement of the 1960s. Like all literature, there's trends within Chicano literature trends which reflect the economic, social and political situation of the times. Juan Rodriguez, a lecturer in English in the Center for Mexican American Studies in the University of Texas, teaches ethno literature and he's from the old guard of Chicano studies, he's the editor of Carta Abierta and publishes in Chicano literature. He'll discuss with us the development of Chicano literature. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "15,70"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "But you have the individual point of reference. How can that transcend to all the people?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "123,128"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What are the different types of chicano literature, for example, the chicano literature in the past versus the chicano literature today. Contemporary literature?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "149,158"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Why was the expression oral?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "243,244"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Now, within the contemporary uh expression or development of Chicano literature, there's different types of novels, different types of genre. Could you elaborate on that?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "293,304"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Chicano literature comes from the people. It's an expression of real life experiences in the various experiences of happiness, family life and tragedies within these tragedies is the reality of economic oppression that for some leads to prison. Political activist, Raul Salinas has written about the joys and tragedies of barrio life. His time in prison led him to write about and to reflect about living in the barrios, which for many chicanos is an experience they all share. Salinas started writing in 1959 and one of his best known works is A Trip through the Mind Jail",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "383,417"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Raul Salinas, a writer, lecturer and teacher. Salinas is also an advocate for prisoners rights and an activist in the American Indian movement.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "860,868"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "We're going back to Luiz Valdez, it seemed that it would make an impact because since the Actos were were carried out in in the fields where people were working and the majority of our people are working class people.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "955,967"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What type of themes would with the birth of Chicano literature start with?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1033,1038"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "What value is it to you? Poetry or literature that traces back cultural historical roots that sees a person, the writer himself searching for his identity.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1124,1138"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Who's reading chicano literature?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1279,1281"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "How can we deal with those problems of distribution?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1341,1344"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/linda-fragoso-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Thank you very much. Our guest this week was Juan Rodriguez, a lecturer in English at the Center for Mexican American Studies and editor of Carta Abierta and a publisher of Chicano literature. He discussed the development of Chicano literature. Thank you for joining us this week for the Mexican American Experience. I'm Linda Fragoso. ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1401,1419"
+        }
+      }
+    }
+  ]
+}

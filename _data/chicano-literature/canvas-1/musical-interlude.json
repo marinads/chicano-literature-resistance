@@ -1,0 +1,50 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/musical-interlude.json",
+  "type": "AnnotationPage",
+  "label": "Musical Interlude",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/musical-interlude-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Conjunto Music",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "376,382"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/musical-interlude-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Conjunto Music",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "868,878"
+        }
+      }
+    }
+  ]
+}

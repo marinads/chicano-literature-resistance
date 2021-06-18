@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/show-closing.json",
+  "type": "AnnotationPage",
+  "label": "Show Closing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/show-closing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "You've been listening to the Mexican American Experience, a series of weekly programmes focusing on the second largest minority in the United States, the Chicano Comments are welcome and copies of this program are available and may be obtained by writing the Mexican American Experience Communications Center at the University of Texas at Austin, 78712. This program is distributed by the communications center at UT Austin and does not necessarily reflect the views of the communications center staff or the University of Texas at Austin. This is the Longhorn Radio Network.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1420,1451"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/musical-closing.json",
+  "type": "AnnotationPage",
+  "label": "Musical Closing",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas/musical-closing-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Conjunto Music",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://marinads.github.io/chicano-literature-resistance/chicano-literature/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "1452,1470"
+        }
+      }
+    }
+  ]
+}
